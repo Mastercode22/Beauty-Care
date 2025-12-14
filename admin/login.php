@@ -1,0 +1,3 @@
+<?php
+// admin/login.php
+?>
